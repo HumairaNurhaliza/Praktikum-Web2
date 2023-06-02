@@ -29,7 +29,7 @@ if (isset($_POST['Submit'])) {
                         <input type="text" class="form-control" name="nama" placeholder="Masukan Nama Lengkap..." required>
                     </div>
                     <div class="form-group">
-                        <label for="nama" class="control-label">Jenis Kelamin</label>
+                        <label for="jk" class="control-label">Jenis Kelamin</label>
                         <select class="form-control" name="jenis_kelamin">
                             <option disabled selected> Pilih </option>
                             <option value="Pria">Pria</option>

@@ -34,7 +34,7 @@ while ($data = mysqli_fetch_array($result)) {
                         </div>
                     </div>
                     <div class="form-group">
-                        <label for="nama" class="col-sm-2 control-label">Jenis Kelamin</label>
+                        <label for="jk" class="col-sm-2 control-label">Jenis Kelamin</label>
                         <div class="col-sm-10">
                             <select class="form-control" name="jenis_kelamin">
                                 <option disabled> Pilih </option>
